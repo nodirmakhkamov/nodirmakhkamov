@@ -52,7 +52,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nodirmakhkamov&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nodirmakhkamov&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -70,7 +69,7 @@
   <a href="https://t.me/nodirmain">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
   </a>
-  <a href="https://linkedin.com/in/nodirmakhkamov">
+  <a href="www.linkedin.com/in/nodir-makhkamov-39bb8732b">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
